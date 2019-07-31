@@ -12,9 +12,9 @@ If you're interested in getting started but not sure how to dive in, one of thos
 
 ## Contributing Code
 
-Some of the best ways to find out where to jump in are to either talk to someone on the team (see above for team communication), or look for [issues](issues) marked as [low hanging fruit](contribute). For new contributors, we suggest that you first [fork the repository](https://help.github.com/en/articles/about-forks) in order to track your changes, then create a [pull request](https://help.github.com/en/articles/creating-a-pull-request-from-a-fork). [See this guide for best practices regarding forking and creating a pull request](https://gist.github.com/Chaser324/ce0505fbed06b947d962).
+Some of the best ways to find out where to jump in are to either talk to someone on the team (see above for team communication), or look for [issues](../../issues) marked as [low hanging fruit](../../contribute). For new contributors, we suggest that you first [fork the repository](https://help.github.com/en/articles/about-forks) in order to track your changes, then create a [pull request](https://help.github.com/en/articles/creating-a-pull-request-from-a-fork). [See this guide for best practices regarding forking and creating a pull request](https://gist.github.com/Chaser324/ce0505fbed06b947d962).
 
-You can also get familiar with the codebase by [reviewing any outstanding pull requests](pulls) - check out [GitHub's course on pull request review best practices](https://lab.github.com/githubtraining/reviewing-pull-requests).
+You can also get familiar with the codebase by [reviewing any outstanding pull requests](../../pulls) - check out [GitHub's course on pull request review best practices](https://lab.github.com/githubtraining/reviewing-pull-requests).
 
 Thanks again for contributing!
 
